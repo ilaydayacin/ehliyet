@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\bin\Debug\Ehliyet sorusu.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\bin\Debug\Ehliyet sorusu.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\bin\Debug\Ehliyet sorusu.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet_sorusu.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet_sorusu.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Ehliyet sorusu\Ehliyet sorusu\obj\Debug\Ehliyet sorusu.pdb
